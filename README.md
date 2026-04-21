@@ -35,6 +35,8 @@ When adding or updating documentation:
 
 ## Contact
 
-For questions about documentation, contact the Documentation Team.
+For questions about documentation, contact the Documentation Team at docs@example.com.
 
-**Last Updated:** April 2026
+For urgent issues, use the #documentation Slack channel.
+
+**Last Updated:** April 21, 2026
