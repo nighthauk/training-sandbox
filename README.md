@@ -35,6 +35,9 @@ When adding or updating documentation:
 
 ## Contact
 
-For questions about documentation, contact the Documentation Team.
+For questions or contributions, please visit our community forum at community.example.com.
+
+You can also reach the team via email: support@example.com
 
 **Last Updated:** April 2026
+**Version:** 2.0
