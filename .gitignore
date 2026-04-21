@@ -1,0 +1,42 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Build and Distribution
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+.cache/
+
+# Environment Files
+.env
+.env.local
+.env.production
+
+# Node Modules (if we add any tooling)
+node_modules/
+
+# Documentation Build Output
+docs/_build/
