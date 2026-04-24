@@ -24,6 +24,7 @@ Choose how you want to be notified:
 - Team invitations
 - System announcements
 - Weekly digest
+- Daily digest
 
 **In-App Notifications:**
 - Real-time updates
