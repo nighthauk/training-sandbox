@@ -24,6 +24,7 @@ When adding or updating documentation:
 2. Make your edits in markdown format
 3. Submit a pull request for review
 4. Ensure all links and formatting are correct
+5. Test new step #5
 
 ## Style Guide
 
