@@ -33,7 +33,7 @@ When adding or updating documentation:
 - Keep paragraphs short (3-4 sentences max)
 - Use headers to organize content
 - Always proofread before committing
-- Demoing a merge conflict
+- Always dress to impress
 
 ## Contact
 
